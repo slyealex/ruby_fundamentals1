@@ -85,7 +85,7 @@
 # end
 
 # range
-# 
+#
 # one_to_ten = (1..10)
 #
 # one_to_ten.each do |number|

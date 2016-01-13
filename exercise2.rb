@@ -4,7 +4,7 @@
 #####  QUESTION ONE #######
 meal_cost = 55.0
 tip = 0.18
-puts "The tip for a #{meal_cost} dollar meal is #{ 55 * 18 / 100 } buckaroos."
+puts "The tip for a #{meal_cost} dollar meal is #{ (55 * 18) / 100 } buckaroos."
 
 #####  QUESTION TWO #######
 puts "The Bitmaker course is  " + 9.to_s + " weeks."

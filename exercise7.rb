@@ -11,3 +11,17 @@ def student_list(hash)
 end
 
 student_list(students)
+
+students[:cohort4] = 43
+
+students.keys
+
+students.each do |key, value|
+  puts (value * 0.05) + value
+end
+
+students.delete(:cohort2)
+
+student_list(students)
+
+##### BONUS ######
